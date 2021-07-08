@@ -12,7 +12,7 @@ export default function Footer() {
                             <a>Events</a>
                         </Link>
                     </p>
-                    <hr />
+                    <div className={styles.separator}></div>
                     <p>Copyright &copy; 2021 Music Events</p>
                 </div>
             </div>
